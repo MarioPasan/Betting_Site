@@ -1,2 +1,2 @@
 # Betting_Site
-Simple betting site with virtual creditscredits
+Simple betting site with virtual credits
